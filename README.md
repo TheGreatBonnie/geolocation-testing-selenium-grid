@@ -3,7 +3,7 @@
 ## Running The Tests
 Step 1: Git clone the repo.
 ```
-git clone https://github.com/TheGreatBonnie/jasmine-integration-testing.git
+https://github.com/TheGreatBonnie/GeolocationTesting.git
 ```
 
 Step 2: Navigate into jasmine-integration-testing folder.
