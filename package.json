@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^4.6.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.8.2"
+  }
+}
