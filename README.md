@@ -1,4 +1,4 @@
-# GeolocationTesting
+# Geolocation Testing Selenium Grid
 
 ## Running The Tests
 Step 1: Git clone the repo.
